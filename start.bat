@@ -1,4 +1,5 @@
 @echo off
 ::python main.py "X:\\Minecraft 1.12.2 World Generator\\world_the_end\\DIM1\\region"
-python main.py temp
+::python main.py temp
+pypy3.10 main.py temp
 pause
